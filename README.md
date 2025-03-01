@@ -60,15 +60,3 @@ Render is a cloud platform that makes it simple to host your code and applicatio
 
 <!-- ## Results -->
 
-## Contributors
-
-
-|                                                                                         <a href="https://github.com/indrap24"><img src="https://avatars.githubusercontent.com/u/64627762?s=400&u=0223a819d07fd06064c40e024e5692e61df6c16d&v=4" width=150px height=150px /></a>                                                                                         |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                        **[Indrashis Paul](https://www.linkedin.com/in/indrapaul824/)**                                                                                                                                        |
-| <a href="https://www.linkedin.com/in/indrapaul824/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
-
-|                                                                                         <a href="https://github.com/imraghavagr"><img src="https://avatars.githubusercontent.com/u/52325383?v=4" width=150px height=150px /></a>                                                                                         |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                                                        **[Raghav Agarwal](https://www.linkedin.com/in/raghav-a-30b020102/)**                                                                                                                                        |
-| <a href="https://www.linkedin.com/in/raghav-a-30b020102/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
